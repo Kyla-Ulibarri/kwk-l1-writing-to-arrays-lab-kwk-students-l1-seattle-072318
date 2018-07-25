@@ -17,5 +17,5 @@ def add_colors
   rainbow_colors.push("blue")
 end
 
-puts change_rainbow_colors
+print change_rainbow_colors
 #puts add_colors
